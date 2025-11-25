@@ -1,2 +1,1 @@
-# Website-basics
-I am going to upload websites that I am going to practice
+This repo is for html basics
